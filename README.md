@@ -1,1 +1,1 @@
-# qa_python
+# Тестирование BooksCollector
